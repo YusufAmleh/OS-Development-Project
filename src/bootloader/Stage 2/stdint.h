@@ -1,4 +1,3 @@
-
 #pragma once
 
 typedef signed char int8_t;
@@ -14,3 +13,4 @@ typedef uint8_t bool;
 
 #define false 0
 #define true 1
+
